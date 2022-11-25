@@ -1,0 +1,5 @@
+block_ip_in_addr
+check_confirmed_dyna
+check_ip_reverse_dns
+require_helo
+valid_from_domain

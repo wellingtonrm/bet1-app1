@@ -1,0 +1,15 @@
+/_temp/
+/vendor/
+/public_html/webfiles/arquivos/
+/public_html/webfiles/imagens/
+/error.log
+/__ARQUIVOS/
+/_ARQUIVOS_/
+/public_html/node_modules/
+/debug.php
+!/webfiles/imagens/default.jpg
+!/webfiles/imagens/jogador.png
+!/webfiles/imagens/consultor.png
+!/webfiles/imagens/franqueado.png
+/.idea/
+/public_html/cksource/
